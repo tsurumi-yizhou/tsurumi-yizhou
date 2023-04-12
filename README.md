@@ -18,7 +18,7 @@
 ## 关于我的技术栈
 我的编程之路始于初中的信息学竞赛，因此以C++为主，常用Boost、Qt。
 
-除此之外，常用的语言还有kotlin、nodejs、lua。
+除此之外，常用的语言还有kotlin、nodejs、lua、haskell。
 
 主要方向：Linux内核、协议栈
 
