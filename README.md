@@ -1,5 +1,9 @@
-![](https://blog.yizhou.info/img/about.jpg)
+A student from College of Physics in Jilin University.
 
-> 是故君子戒慎乎其所不睹，恐惧乎其所不闻。莫见乎隐，莫显乎微，故君子慎其独也。
+Focus on Philosophy, Thology and Lingustcis.
 
-A student from College of Physics in Jilin University, with interests in Philosophy, Thology and Linguistics, used to C++ programming. Deeply trained in Confucianism culture. Wuu-Chinese, English and French speaker.
+Work with C++, Kotlin and F#.
+
+![Languages](https://wakatime.com/share/@4e277c11-ea7b-404f-aee7-482e2286bc3a/ddaf8639-9142-4562-8c8f-4cfe05162870.png)
+
+Speak in wuu-Chinese, English and French.
