@@ -1,7 +1,1 @@
-A student from College of Physics in Jilin University.
-
-Focus on Philosophy, Thology and Lingustcis.
-
-Work with C++, Kotlin and F#.
-
-Speak in wuu-Chinese, English and French.
+雅好摄影、cosplay、射箭，音乐口味是古典乐与东方。学术兴趣在于计算语言学和理论物理。
